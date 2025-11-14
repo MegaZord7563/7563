@@ -2,7 +2,7 @@
 
 ## [Fundamento do Swerve](https://github.com/MegaZord7563/7563/blob/main/SwerveFoundation.md)
 
-## Lab1: Motor REV controlado por eixo de Joystick
+## [Lab1: Motor REV controlado por eixo de Joystick](https://github.com/MegaZord7563/7563/tree/main/lab%201)
 
 -> Teoria de framework
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Lab2: Motor REV controlado por botões e por eixo de Joystick
+## [Lab2: Motor REV controlado por botões e por eixo de Joystick](https://github.com/MegaZord7563/7563/tree/main/lab%202)
 
 -> Criação de comandos
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Lab3: Motor REV controlado por botão em uma velocidade desejada PID degrau
+## [Lab3: Motor REV controlado por botão em uma velocidade desejada PID degrau](https://github.com/MegaZord7563/7563/tree/main/lab%203)
 
 -> PID de posicao pelo RoboRio disparado por botão e período padrão 20mS
 
@@ -40,7 +40,7 @@
  
 ---
 
-## Lab4: Motor REV controlado por botão em uma velocidade desejada PID trapezoidal
+## [Lab4: Motor REV controlado por botão em uma velocidade desejada PID trapezoidal](https://github.com/MegaZord7563/7563/tree/main/lab%204)
 
 -> PID trapezoidal de posicao pelo RoboRio disparado por botão e período padrão 20mS, Velocidade máxima e aceleração
 
@@ -48,7 +48,7 @@
  
 ---
 
-## Lab5: Motor REV configurado para PID no SPark controle de velocidade e de posição.
+## [Lab5: Motor REV configurado para PID no SPark controle de velocidade e de posição.](https://github.com/MegaZord7563/7563/tree/main/lab%205)
 
 -> PID declarado por Slot
 
