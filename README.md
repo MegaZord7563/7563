@@ -45,9 +45,14 @@ Desde a nossa temporada de estreia oficial na FRC em 2019, a Megazord 7563 alcan
 
 Quer saber mais sobre nossos projetos, robôs e atividades de *Outreach*? Siga-nos nas redes sociais!
 
-* **Instagram:** [@megazord7563](https://www.instagram.com/megazord7563/)
-* **E-mail (Para contato):** megazord7563@gmail.com
-* **Localização:** Jundiaí, São Paulo, Brasil
+:arrow_forward:**Instagram:** [@megazord7563](https://www.instagram.com/megazord7563/)
+
+📡**Youtube:** [@megazord7563](https://www.youtube.com/@MEGAZORD7563)
+
+:e-mail: **E-mail (Para contato):** megazord7563@gmail.com
+
+📍**Localização:** Jundiaí, São Paulo, Brasil
+
 
 ***
 
