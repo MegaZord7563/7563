@@ -1,4 +1,4 @@
-# 🤖 Equipe FRC Megazord 7563
+#  <img width="136" height="140" alt="image" src="https://github.com/user-attachments/assets/787acc95-8e41-47e5-ad7f-e59b69bd77ab" /> Equipe FRC Megazord 7563
 
 ## 🌟 Sobre Nós
 
