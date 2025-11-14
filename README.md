@@ -22,7 +22,6 @@ Desde a nossa temporada de estreia oficial na FRC em 2019, a Megazord 7563 alcan
 | **2025** | **Regional Brasil - São Paulo** | **FIRST Dean's List Finalist Award** (Caio B - Finalista) |
 | **2025** | **Regional Brasil - Brasília** | **Regional Winners**  |
 | **2025** | **Regional Brasil - Brasília** | **Engineering Inspiration Award**  |
-| **2025** | **FRC World Championship (Newton Division)** | Participação no Campeonato Mundial |
 | **2024** | **Regional Brasil - Brasília** | **Innovation In Control Award**  |
 | **2024** | **Regional Brasil - Brasília** | **FIRST Dean's List Finalist Award** (Ana Caroline - Finalista) |
 | **2023** | FRC World Championship (Houston) | Participação no Campeonato Mundial Archimedes Division |
