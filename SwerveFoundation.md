@@ -1,11 +1,4 @@
-# :high_brightness: 2025 Megazord Robot Code
-
-Welcome to the official code repository for the **2025 Megazord Robot (FRC Team 7563)**. This documentation provides an overview of the robot's subsystems, control systems, and how to interact with the codebase.
-
-
-## 🤖  Robot Systems Overview
-
-### 🌟Swerve Drive
+# 🌟Swerve Drive
 
 O **Swerve Drive** permite movimentos precisos e omnidirecionais, permitindo que o robô navegue pelo campo com agilidade. O código é dividido em três componentes principais:
 
