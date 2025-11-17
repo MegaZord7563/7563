@@ -6,15 +6,15 @@ O **Swerve Drive** permite movimentos precisos e omnidirecionais, permitindo que
 
 Esta parte do código controla a saída de cada roda individualmente. Cada módulo é responsável pela direção e velocidade de uma roda. A configuração dos módulos é mostrada na imagem abaixo:
 
-<img width="1796" height="768" alt="image" src="https://github.com/user-attachments/assets/a81d412d-fe94-47f3-b7cb-d32492d0994b" />
 
+<img width="1796" height="768" alt="swerve" src="https://github.com/user-attachments/assets/74a5e991-5389-48e2-b835-2719dc428276" />
 
 ### 2. **Swerve Subsystem / Command**
 
 Aqui, o código combina as saídas das rodas e cria **ChassisSpeeds** para controlar o movimento do robô. As entradas do joystick são processadas e convertidas em velocidades de saída do robô.
 
-<img width="1497" height="870" alt="image" src="https://github.com/user-attachments/assets/154cf51f-9893-4e8c-91ac-a3a7db760426" />
 
+<img width="1497" height="870" alt="sweveModule" src="https://github.com/user-attachments/assets/2fb9318a-734d-49f4-9341-0c6abc4f0cb0" />
 
 ### 3. **Classe Swerve Module**
 
@@ -34,7 +34,8 @@ A biblioteca `SwerveDriveKinematics` cuida do cálculo complexo no controle das 
 Cada SwerveModuleState especifica a velocidade e o ângulo desejados para um único módulo swerve. 
 Nosso código então envia esses comandos SwerveModuleState para cada módulo, que controla seus motores de acordo para atingir o movimento pretendido.
 
-<img width="505" height="476" alt="image" src="https://github.com/user-attachments/assets/540b0736-524f-4f80-92fe-1d37d48b8c49" />
+
+<img width="505" height="476" alt="swerveOrientation" src="https://github.com/user-attachments/assets/a86fd51e-cebb-4fbe-b2cd-2834abac0dba" />
 
 A cinemática do robô precisa ser atribuída corretamente, pois é por meio destes valores que a biblioteca calcula as velocidades e ângulos de cada módulo Swerve.
 #### Localização de cada módulo
