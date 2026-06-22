@@ -17,6 +17,12 @@ Desde a nossa temporada de estreia oficial na FRC em 2019, a Megazord 7563 alcan
 
 | Ano | Competição | Prêmio |
 | :---: | :--- | :--- |
+| **2026** | FRC World Championship (Houston) | Participação no Campeonato Mundial Jhonson Division |
+| **2026** | **Regional Brasil - Festival SESI** | **Regional Winners**  |
+| **2026** | **Regional Brasil - Festival SESI** | **Impact Award**  |
+| **2026** | **Regional Brasil - Festival SESI** | **FIRST Leadership Award Finalist** (Ana Biasin - Finalista) |
+| **2026** | **Regional Brasil - Osasco** | **Regional Winners**  |
+| **2025** | **Regional Brasil - Osasco** | **Autonomous Award**  |
 | **2025** | FRC World Championship (Houston) | Participação no Campeonato Mundial Newton Division |
 | **2025** | **Regional Brasil - São Paulo** | **Regional Winners**  |
 | **2025** | **Regional Brasil - São Paulo** | **Autonomous Award**  |
