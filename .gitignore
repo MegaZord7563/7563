@@ -1,0 +1,77 @@
+# .gitignore para projetos Java (FRC)
+# Este arquivo ignora arquivos e pastas gerados por compilação, IDEs e ferramentas comuns
+# usados em projetos FIRST Robotics Competition (WPILib/GradleRIO) escritos em Java.
+
+# Compilados e artefatos
+*.class
+*.jar
+*.war
+*.ear
+/build/
+/build-*/
+/build/libs/
+out/
+
+# Gradle
+.gradle/
+.gradle-cache/
+
+# Arquivos do wrapper (geralmente se comita, então NÃO ignorar o gradle-wrapper.jar)
+# gradle/wrapper/gradle-wrapper.jar
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs e relatórios
+*.log
+reports/
+coverage/
+
+# Arquivos temporários e de backup
+*~
+*.swp
+
+# WPILib / FRC específicos
+.wpilib/
+.wpilibcache/
+/gradle/wrapper/dists/
+build/
+
+# Arquivos de deploy e toolchain do RoboRIO
+deploy/
+deploy/**
+roborio/
+
+# Arquivos de configuração local / segredos
+secrets.json
+local.properties
+
+# Outros
+.idea_modules/
+lib/
+
+# Arquivos de perfil do Java
+*.classdata
+
+# JetBrains
+*.iws
+
+# Arquivos gerados por CI (evitar commitar)
+*.zip
+*.tar.gz
+
+# Filtros adicionais — mantenha /src e arquivos de projeto no controle de versão
+
